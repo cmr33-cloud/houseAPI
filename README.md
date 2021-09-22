@@ -62,3 +62,7 @@ This gives the user all the `people` withing a cetain age brackets and specific 
 `maxAge`: An integer representing the maximum age needed to be included.
 
 `peopleInHousehold`: An integer representing the number of people in household to be included.
+
+## Schema
+
+![alt text](schema.png)
