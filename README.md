@@ -41,7 +41,7 @@ Before adding a new house, it is necessary to add the owner and get the `id` of 
 ### GET "/houses"
 
 #### Description
-This gives the user a list of all the houses, including the house `id`.
+This gives the user a list of all the houses, including the house `id` that can be used for requesting data for that specific house.
 
 ---
 
