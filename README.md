@@ -66,3 +66,15 @@ This gives the user all the `people` withing a cetain age brackets and specific 
 ## Schema
 
 ![alt text](schema.png)
+
+# Feedback from Brodie and Callum
+
+*Very good layout, logically structured*
+
+*It would be nice to see inline code snippets for the structure of the post request*
+
+*The user might have been grateful for a way to view all houses for a way to search houses by address or owner*
+
+*The schema diagram is a helpful representation of the system architecture*
+
+*Overall a good and thorough solution to the exercise*
